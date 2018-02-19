@@ -1,0 +1,7 @@
+Sample text file.
+Distributed OS course is awesome.
+Asynchronous is tricky but cool.
+Life isn't just work and coding.
+Don't lose yourself in studying or working.
+Grades won't make you an engineer.
+Blah, blah
